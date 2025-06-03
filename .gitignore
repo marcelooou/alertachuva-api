@@ -1,0 +1,23 @@
+# Arquivos de build
+/bin/
+/build/
+/out/
+/target/
+
+# Arquivos de IDE
+/.classpath
+/.project
+/.settings/
+/*.iml
+
+# Dependências
+/.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Binários e logs
+*.class
+*.log
+
+# Outros
+*.jar
+*.war
